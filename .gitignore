@@ -1,0 +1,15 @@
+#  .gitignore Dosyası Ne İşe Yarar? Nasıl Kullanırız?
+
+#  .gitignore dosyası projemizin kök dizinine oluşturulan düz bir metin dosyasıdır. 
+#  Adından anlaşıldığı gibi diyor ki beni göz ardı et. Daha doğrusu göz ardı etmek istediğin, 
+#  local çalışma alanındaki takip edilmesini istemediğin, 
+#  takım arkadaşların için gerekmeyen dosyaların varsa 
+#  veya bu dosyaların boyutu reponuza atmanıza gerek olmayacak kadar büyük ölçekli ise
+#   buyur beni kullan diyor.
+
+*.png
+*.jpg
+
+*.log
+
+*.ini
